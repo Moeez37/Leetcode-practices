@@ -20,7 +20,7 @@ class Solution{
             int i=0;
             while(i!=last)
             {
-            	if(sumfirst==sum_last && last==i    )
+            	if(sumfirst==sum_last && last==i  (i+1>=0 && i+1<n) &&(last-1>=0 && last-1<n)  )
             	{
             		return i+1;
 				}
